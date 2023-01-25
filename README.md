@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rafad
-- 👀 I’m interested in data Clean and data Visualization
-- 🌱 I’m Jr. Data Analyst certified by Google.
-- 💞️ I’m looking to collaborate on Data Analysis
+- 👀 I’m interested in Web development & data Clean and data Visualization
+- 🌱 I’m certified by Google as a Jr. Data Analyst.
+- 💞️ I’m looking to collaborate on Data Analysisand Web development
 - 📫 How to reach me..... rafad2862@gmail.com
 
 <!---
